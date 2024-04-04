@@ -10,7 +10,7 @@ class Hw18ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(true, true);
+		assertEquals(1, 2);
 	}
 
 }
